@@ -1,0 +1,567 @@
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/css/demo.css
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\css\demo.css
+Content Type: text/css
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/img/avatars/1.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\img\avatars\1.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/img/icons/unicons/cc-primary.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\img\icons\unicons\cc-primary.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/img/icons/unicons/chart-success.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\img\icons\unicons\chart-success.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/img/icons/unicons/chart.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\img\icons\unicons\chart.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/img/icons/unicons/paypal.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\img\icons\unicons\paypal.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/img/icons/unicons/wallet-info.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\img\icons\unicons\wallet-info.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/img/icons/unicons/wallet.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\img\icons\unicons\wallet.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/js/config.js
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\js\config.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/js/dashboards-analytics.js
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\js\dashboards-analytics.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/js/main.js
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\js\main.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/vendor/css/core.css
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\vendor\css\core.css
+Content Type: text/css
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/vendor/css/theme-default.css
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\vendor\css\theme-default.css
+Content Type: text/css
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/vendor/fonts/boxicons.css
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\vendor\fonts\boxicons.css
+Content Type: text/css
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/vendor/js/bootstrap.js
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\vendor\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/vendor/js/helpers.js
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\vendor\js\helpers.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/vendor/js/menu.js
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\vendor\js\menu.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/vendor/libs/apex-charts/apex-charts.css
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\vendor\libs\apex-charts\apex-charts.css
+Content Type: text/css
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/vendor/libs/apex-charts/apexcharts.js
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\vendor\libs\apex-charts\apexcharts.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/vendor/libs/jquery/jquery.js
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\vendor\libs\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\vendor\libs\perfect-scrollbar\perfect-scrollbar.css
+Content Type: text/css
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\vendor\libs\perfect-scrollbar\perfect-scrollbar.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/assets/vendor/libs/popper/popper.js
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\assets\vendor\libs\popper\popper.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/html/compte.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\html\compte.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/html/logo.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\html\logo.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/Co/html/virement.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\Co\html\virement.html
+Content Type: text/html
+
+Uri: https://buttons.github.io/buttons.js
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\buttons.js
+Content Type: application/javascript
+
+Uri: https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\000webhost\logo\footer-powered-by-000webhost-white2-1.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673toPgAct.ttf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673toPgAct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpjgAct.ttf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpjgAct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgAct.ttf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgAct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tq2hwct.ttf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tq2hwct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tqPhwct.ttf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\s\publicsans\v14\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tqPhwct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymu8Z65ww.ttf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymu8Z65ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5ww.ttf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5ww.ttf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuSJm5ww.ttf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuSJm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v14/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65ww.ttf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\s\publicsans\v14\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65ww.ttf
+Content Type: font/ttf
+
+ale.000webhostapp.com\client\css\themes\00022\auth\js\jquery.jcarousel.minbdd4.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/auth/js/jquery.keypad.minbdd4.js?v=20190417102404
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\auth\js\jquery.keypad.minbdd4.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/auth/js/jquery.plugin.minbdd4.js?v=20190417102404
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\auth\js\jquery.plugin.minbdd4.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/auth/js/jquery.stickybdd4.js?v=20190417102404
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\auth\js\jquery.stickybdd4.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/auth/js/jquerybdd4.js?v=20190417102404
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\auth\js\jquerybdd4.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/auth/js/marked.minbdd4.js?v=20190417102404
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\auth\js\marked.minbdd4.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/auth/js/pbkdf2bdd4.js?v=20190417102404
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\auth\js\pbkdf2bdd4.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/font/font-awesome-4.7.0/css/font-awesome.min.css
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\font\font-awesome-4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/font/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e-2.html?v=4.7.0
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\font\font-awesome-4.7.0\fonts\fontawesome-webfont3e6e-2.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/font/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e-3.html?v=4.7.0
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\font\font-awesome-4.7.0\fonts\fontawesome-webfont3e6e-3.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/font/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e-4.html?v=4.7.0
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\font\font-awesome-4.7.0\fonts\fontawesome-webfont3e6e-4.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/font/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.html?v=4.7.0
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\font\font-awesome-4.7.0\fonts\fontawesome-webfont3e6e.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/font/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.svg?v=4.7.0
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\font\font-awesome-4.7.0\fonts\fontawesome-webfont3e6e.svg
+Content Type: image/svg+xml
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/font/font-awesome-4.7.0/fonts/fontawesome-webfontd41d.html?
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\font\font-awesome-4.7.0\fonts\fontawesome-webfontd41d.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/font/Montserrat/montserrat-v12-latin-600.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\font\Montserrat\montserrat-v12-latin-600.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/font/Montserrat/montserrat-v12-latin-601.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\font\Montserrat\montserrat-v12-latin-601.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/font/Montserrat/montserrat-v12-latin-regular-2.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\font\Montserrat\montserrat-v12-latin-regular-2.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/font/Montserrat/montserrat-v12-latin-regular.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\font\Montserrat\montserrat-v12-latin-regular.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/images/auth/auth_clear_icon.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\images\auth\auth_clear_icon.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/images/auth/auth_password_icon.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\images\auth\auth_password_icon.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/images/auth/auth_user_icon.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\images\auth\auth_user_icon.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/client/css/themes/00022/style-authbdd4.css?v=20190417102404
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\client\css\themes\00022\style-authbdd4.css
+Content Type: text/css
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/index.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\index.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/lock.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\lock.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/login.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\login.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/menu.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\menu.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/search.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\search.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/roboto-bold-2.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\roboto-bold-2.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/roboto-bold.eot
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\roboto-bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/roboto-bold.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\roboto-bold.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/roboto-bold.svg
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\roboto-bold.svg
+Content Type: image/svg+xml
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/roboto-bold.woff
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\roboto-bold.woff
+Content Type: application/font-woff
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/roboto-boldd41d.eot?
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\roboto-boldd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-bold-2.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-bold-2.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-bold-3.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-bold-3.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-bold.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-bold.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-bold.otf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-bold.otf
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-bold.woff
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-bold.woff
+Content Type: application/font-woff
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-boldd41d.html?
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-boldd41d.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-italic-2.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-italic-2.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-italic-3.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-italic-3.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-italic-4.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-italic-4.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-italic.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-italic.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-italicd41d.html?
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-italicd41d.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-light-2.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-light-2.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-light-3.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-light-3.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-light.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-light.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-light.otf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-light.otf
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-light.woff
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-light.woff
+Content Type: application/font-woff
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-lightd41d.html?
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-lightd41d.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-regular-2.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-regular-2.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-regular-3.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-regular-3.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-regular.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-regular.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-regular.otf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-regular.otf
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-regular.woff
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-regular.woff
+Content Type: application/font-woff
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-regulard41d.html?
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-regulard41d.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-semibold-2.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-semibold-2.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-semibold-3.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-semibold-3.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-semibold.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-semibold.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-semibold.otf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-semibold.otf
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-semibold.woff
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-semibold.woff
+Content Type: application/font-woff
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/fonts/sourcesanspro-semiboldd41d.html?
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\fonts\sourcesanspro-semiboldd41d.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/img/a-store.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\img\a-store.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/img/crypto-bg.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\img\crypto-bg.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/img/double-arrow-2x.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\img\double-arrow-2x.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/img/favicon.ico
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\img\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/img/g-play.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\img\g-play.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/img/jauge_mobile.jpg
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\img\jauge_mobile.jpg
+Content Type: image/jpeg
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/img/jauge_mob_sec_screen.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\img\jauge_mob_sec_screen.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/img/loader_sg_20180821152355.gif
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\img\loader_sg_20180821152355.gif
+Content Type: image/gif
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/img/logo/logo-sg-seul.svg
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\img\logo\logo-sg-seul.svg
+Content Type: image/svg+xml
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/img/socials.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\img\socials.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/img/sprite.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\img\sprite.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/img/trame.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\img\trame.png
+Content Type: image/png
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/js/ABTesting/PRI/main/head-section-async_testing-main_16625414410000.js
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\js\ABTesting\PRI\main\head-section-async_testing-main_16625414410000.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/js/common/lazysizes.min.js
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\js\common\lazysizes.min.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/js/common/swiper.min.js
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\js\common\swiper.min.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/js/index_20220712163549.min.js
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\js\index_20220712163549.min.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/js/init-configs_20220624163857.js
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\js\init-configs_20220624163857.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/js/n2g_secu.js
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\js\n2g_secu.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/js/Revive/dca_portail_global_20211128192509.js
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\js\Revive\dca_portail_global_20211128192509.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/js/vendor_20220712163549.min.js
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\js\vendor_20220712163549.min.js
+Content Type: application/javascript
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/stylesheets/assets/search.svg
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\stylesheets\assets\search.svg
+Content Type: image/svg+xml
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/stylesheets/fonts/sourcesanspro-semibolditalic-2.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\stylesheets\fonts\sourcesanspro-semibolditalic-2.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/stylesheets/fonts/sourcesanspro-semibolditalic-3.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\stylesheets\fonts\sourcesanspro-semibolditalic-3.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/stylesheets/fonts/sourcesanspro-semibolditalic-4.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\stylesheets\fonts\sourcesanspro-semibolditalic-4.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/stylesheets/fonts/sourcesanspro-semibolditalic-5.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\stylesheets\fonts\sourcesanspro-semibolditalic-5.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/stylesheets/fonts/sourcesanspro-semibolditalic.html
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\stylesheets\fonts\sourcesanspro-semibolditalic.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/stylesheets/fonts/sourcesanspro-semibolditalicd41d.html?
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\stylesheets\fonts\sourcesanspro-semibolditalicd41d.html
+Content Type: text/html
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/stylesheets/index_pri_20220712163248.min.css
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\stylesheets\index_pri_20220712163248.min.css
+Content Type: text/css
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/stylesheets/print_20220624163857.min.css
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\stylesheets\print_20220624163857.min.css
+Content Type: text/css
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/stylesheets/spec56_btn_gsm_all_gcd_20211128192509.min.css
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\stylesheets\spec56_btn_gsm_all_gcd_20211128192509.min.css
+Content Type: text/css
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/static/Resources/stylesheets/specific/style-newhome27a6.css?v=12072022
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\static\Resources\stylesheets\specific\style-newhome27a6.css
+Content Type: text/css
+
+Uri: http://moncompte-societgenerale.000webhostapp.com/temps-forts.jpg
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\temps-forts.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\000webhost\logo\footer-powered-by-000webhost-white2.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,700
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,300,500,700
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\HP\Desktop\EAGLE\moncompte-societgenerale.000webhostapp.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
